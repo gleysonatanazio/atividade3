@@ -5,7 +5,7 @@ ele for maior que 10 escreva “MAIOR” no console.
  */
 
 
-program
+programa
 {
 	
 	funcao inicio()
@@ -27,7 +27,7 @@ program
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 279; 
+ * @POSICAO-CURSOR = 296; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
