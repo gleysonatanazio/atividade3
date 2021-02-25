@@ -5,7 +5,7 @@ ele for maior que 10 escreva “MAIOR” no console.
  */
 
 
-programa
+program
 {
 	
 	funcao inicio()
@@ -15,8 +15,10 @@ programa
 		escreva("Digite um número: ")
 		leia(numeroN)
 
-		se(numeroN>10)
+		se(numeroN>10){
+			escreva("MAIOR")
 		}
+		
 			
 	}
 }
@@ -25,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 259; 
+ * @POSICAO-CURSOR = 279; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
